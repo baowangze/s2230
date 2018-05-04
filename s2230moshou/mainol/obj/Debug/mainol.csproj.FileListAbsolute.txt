@@ -1,0 +1,6 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\mainol\bin\Debug\mainol.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\mainol\bin\Debug\mainol.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\mainol\bin\Debug\mainol.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\mainol\obj\Debug\mainol.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\mainol\obj\Debug\mainol.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\mainol\obj\Debug\mainol.pdb

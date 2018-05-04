@@ -1,0 +1,11 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmProject\bin\Debug\FrmProject.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmProject\bin\Debug\FrmProject.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmProject\bin\Debug\FrmProject.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmProject\obj\Debug\FrmProject.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmProject\obj\Debug\FrmProject.FrmMain.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmProject\obj\Debug\FrmProject.FrmMaintance.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmProject\obj\Debug\FrmProject.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmProject\obj\Debug\FrmProject.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmProject\obj\Debug\FrmProject.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmProject\obj\Debug\FrmProject.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmProject\obj\Debug\FrmProject.Frmjilu.resources

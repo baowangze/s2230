@@ -1,0 +1,9 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMian\bin\Debug\FrmMian.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMian\bin\Debug\FrmMian.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMian\bin\Debug\FrmMian.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMian\obj\Debug\FrmMian.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMian\obj\Debug\FrmMian.Form1.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMian\obj\Debug\FrmMian.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMian\obj\Debug\FrmMian.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMian\obj\Debug\FrmMian.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMian\obj\Debug\FrmMian.pdb

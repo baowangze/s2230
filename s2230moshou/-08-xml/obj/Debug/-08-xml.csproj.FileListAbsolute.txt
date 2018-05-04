@@ -1,0 +1,6 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\-08-xml\bin\Debug\-08-xml.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\-08-xml\bin\Debug\-08-xml.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\-08-xml\bin\Debug\-08-xml.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\-08-xml\obj\Debug\-08-xml.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\-08-xml\obj\Debug\-08-xml.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\-08-xml\obj\Debug\-08-xml.pdb

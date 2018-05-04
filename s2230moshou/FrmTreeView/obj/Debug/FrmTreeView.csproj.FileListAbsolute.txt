@@ -1,0 +1,9 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmTreeView\bin\Debug\FrmTreeView.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmTreeView\bin\Debug\FrmTreeView.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmTreeView\bin\Debug\FrmTreeView.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmTreeView\obj\Debug\FrmTreeView.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmTreeView\obj\Debug\FrmTreeView.Form1.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmTreeView\obj\Debug\FrmTreeView.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmTreeView\obj\Debug\FrmTreeView.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmTreeView\obj\Debug\FrmTreeView.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmTreeView\obj\Debug\FrmTreeView.pdb

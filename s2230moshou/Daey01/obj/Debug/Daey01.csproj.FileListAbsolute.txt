@@ -1,0 +1,6 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Daey01\bin\Debug\Daey01.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Daey01\bin\Debug\Daey01.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Daey01\bin\Debug\Daey01.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Daey01\obj\Debug\Daey01.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Daey01\obj\Debug\Daey01.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Daey01\obj\Debug\Daey01.pdb

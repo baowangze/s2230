@@ -1,0 +1,9 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmtaocan\bin\Debug\Frmtaocan.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmtaocan\bin\Debug\Frmtaocan.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmtaocan\bin\Debug\Frmtaocan.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmtaocan\obj\Debug\Frmtaocan.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmtaocan\obj\Debug\Frmtaocan.Form1.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmtaocan\obj\Debug\Frmtaocan.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmtaocan\obj\Debug\Frmtaocan.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmtaocan\obj\Debug\Frmtaocan.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmtaocan\obj\Debug\Frmtaocan.pdb

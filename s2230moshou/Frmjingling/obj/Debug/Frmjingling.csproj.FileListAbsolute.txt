@@ -1,0 +1,9 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmjingling\bin\Debug\Frmjingling.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmjingling\bin\Debug\Frmjingling.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmjingling\bin\Debug\Frmjingling.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmjingling\obj\Debug\Frmjingling.Form1.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmjingling\obj\Debug\Frmjingling.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmjingling\obj\Debug\Frmjingling.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmjingling\obj\Debug\Frmjingling.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmjingling\obj\Debug\Frmjingling.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmjingling\obj\Debug\Frmjingling.csprojResolveAssemblyReference.cache

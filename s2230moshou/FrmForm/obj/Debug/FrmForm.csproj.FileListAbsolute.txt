@@ -1,0 +1,9 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmForm\bin\Debug\FrmForm.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmForm\obj\Debug\FrmForm.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmForm\obj\Debug\FrmForm.Form1.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmForm\obj\Debug\FrmForm.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmForm\obj\Debug\FrmForm.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmForm\bin\Debug\FrmForm.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmForm\bin\Debug\FrmForm.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmForm\obj\Debug\FrmForm.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmForm\obj\Debug\FrmForm.pdb

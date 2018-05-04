@@ -1,0 +1,10 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\qingchu\bin\Debug\qingchu.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\qingchu\bin\Debug\qingchu.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\qingchu\bin\Debug\qingchu.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\qingchu\obj\Debug\qingchu.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\qingchu\obj\Debug\qingchu.Form1.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\qingchu\obj\Debug\qingchu.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\qingchu\obj\Debug\qingchu.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\qingchu\obj\Debug\qingchu.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\qingchu\obj\Debug\qingchu.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\qingchu\bin\Debug\HelloCsharp.WinFormUI.dll

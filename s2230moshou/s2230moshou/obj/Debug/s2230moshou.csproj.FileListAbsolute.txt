@@ -1,0 +1,11 @@
+c:\users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230moshou\bin\Debug\s2230moshou.exe.config
+c:\users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230moshou\obj\Debug\s2230moshou.csprojResolveAssemblyReference.cache
+c:\users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230moshou\obj\Debug\s2230moshou.FrmMain.resources
+c:\users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230moshou\obj\Debug\s2230moshou.frmhuanying.resources
+c:\users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230moshou\obj\Debug\s2230moshou.frmzhuce.resources
+c:\users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230moshou\obj\Debug\s2230moshou.Properties.Resources.resources
+c:\users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230moshou\obj\Debug\s2230moshou.csproj.GenerateResource.Cache
+c:\users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230moshou\bin\Debug\s2230moshou.exe
+c:\users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230moshou\bin\Debug\s2230moshou.pdb
+c:\users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230moshou\obj\Debug\s2230moshou.exe
+c:\users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230moshou\obj\Debug\s2230moshou.pdb

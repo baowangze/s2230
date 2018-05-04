@@ -1,0 +1,6 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMain1\bin\Debug\FrmMain1.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMain1\obj\Debug\FrmMain1.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMain1\bin\Debug\FrmMain1.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMain1\bin\Debug\FrmMain1.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMain1\obj\Debug\FrmMain1.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMain1\obj\Debug\FrmMain1.pdb

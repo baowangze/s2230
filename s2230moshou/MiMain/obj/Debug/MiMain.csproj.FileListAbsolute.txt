@@ -1,0 +1,5 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\MiMain\bin\Debug\MiMain.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\MiMain\bin\Debug\MiMain.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\MiMain\bin\Debug\MiMain.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\MiMain\obj\Debug\MiMain.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\MiMain\obj\Debug\MiMain.pdb

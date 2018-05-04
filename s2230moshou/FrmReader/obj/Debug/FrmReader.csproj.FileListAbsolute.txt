@@ -1,0 +1,9 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmReader\bin\Debug\FrmReader.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmReader\bin\Debug\FrmReader.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmReader\bin\Debug\FrmReader.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmReader\obj\Debug\FrmReader.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmReader\obj\Debug\FrmReader.Form1.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmReader\obj\Debug\FrmReader.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmReader\obj\Debug\FrmReader.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmReader\obj\Debug\FrmReader.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmReader\obj\Debug\FrmReader.pdb

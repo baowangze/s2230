@@ -1,0 +1,6 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230zhichaundi\bin\Debug\s2230zhichaundi.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230zhichaundi\bin\Debug\s2230zhichaundi.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230zhichaundi\bin\Debug\s2230zhichaundi.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230zhichaundi\obj\Debug\s2230zhichaundi.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230zhichaundi\obj\Debug\s2230zhichaundi.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230zhichaundi\obj\Debug\s2230zhichaundi.pdb

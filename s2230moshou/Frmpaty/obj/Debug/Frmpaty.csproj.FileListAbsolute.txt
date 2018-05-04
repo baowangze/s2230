@@ -1,0 +1,15 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\bin\Debug\Frmpaty.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\obj\Debug\Interop.WMPLib.dll
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\obj\Debug\Frmpaty.csproj.ResolveComReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\bin\Debug\Frmpaty.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\bin\Debug\Frmpaty.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\bin\Debug\Interop.WMPLib.dll
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\obj\Debug\Frmpaty.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\obj\Debug\Frmpaty.Form1.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\obj\Debug\Frmpaty.FrmpricSong.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\obj\Debug\Frmpaty.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\obj\Debug\Frmpaty.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\obj\Debug\Frmpaty.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmpaty\obj\Debug\Frmpaty.pdb

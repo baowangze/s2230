@@ -1,0 +1,6 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\feibol\bin\Debug\feibol.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\feibol\obj\Debug\feibol.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\feibol\bin\Debug\feibol.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\feibol\bin\Debug\feibol.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\feibol\obj\Debug\feibol.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\feibol\obj\Debug\feibol.pdb

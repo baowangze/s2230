@@ -1,0 +1,6 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230tuo\bin\Debug\s2230tuo.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230tuo\bin\Debug\s2230tuo.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230tuo\bin\Debug\s2230tuo.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230tuo\obj\Debug\s2230tuo.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230tuo\obj\Debug\s2230tuo.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\s2230tuo\obj\Debug\s2230tuo.pdb

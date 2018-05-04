@@ -1,0 +1,9 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\D04-demo2\bin\Debug\D04-demo2.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\D04-demo2\obj\Debug\D04-demo2.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\D04-demo2\obj\Debug\D04_demo2.Form1.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\D04-demo2\obj\Debug\D04_demo2.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\D04-demo2\obj\Debug\D04-demo2.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\D04-demo2\bin\Debug\D04-demo2.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\D04-demo2\bin\Debug\D04-demo2.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\D04-demo2\obj\Debug\D04-demo2.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\D04-demo2\obj\Debug\D04-demo2.pdb

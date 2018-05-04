@@ -1,0 +1,9 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmziyuan\bin\Debug\Frmziyuan.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmziyuan\bin\Debug\Frmziyuan.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmziyuan\bin\Debug\Frmziyuan.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmziyuan\obj\Debug\Frmziyuan.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmziyuan\obj\Debug\Frmziyuan.Form1.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmziyuan\obj\Debug\Frmziyuan.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmziyuan\obj\Debug\Frmziyuan.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmziyuan\obj\Debug\Frmziyuan.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmziyuan\obj\Debug\Frmziyuan.pdb

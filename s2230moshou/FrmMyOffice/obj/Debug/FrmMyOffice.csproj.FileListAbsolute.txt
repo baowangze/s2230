@@ -1,0 +1,10 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMyOffice\bin\Debug\FrmMyOffice.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMyOffice\bin\Debug\FrmMyOffice.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMyOffice\bin\Debug\FrmMyOffice.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMyOffice\obj\Debug\FrmMyOffice.csprojResolveAssemblyReference.cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMyOffice\obj\Debug\FrmMyOffice.Form1.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMyOffice\obj\Debug\FrmMyOffice.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMyOffice\obj\Debug\FrmMyOffice.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMyOffice\obj\Debug\FrmMyOffice.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMyOffice\obj\Debug\FrmMyOffice.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\FrmMyOffice\obj\Debug\FrmMyOffice.Frmgai.resources

@@ -1,0 +1,9 @@
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmze\bin\Debug\Frmze.exe.config
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmze\bin\Debug\Frmze.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmze\bin\Debug\Frmze.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmze\obj\Debug\Frmze.Form1.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmze\obj\Debug\Frmze.Properties.Resources.resources
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmze\obj\Debug\Frmze.csproj.GenerateResource.Cache
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmze\obj\Debug\Frmze.exe
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmze\obj\Debug\Frmze.pdb
+C:\Users\浪浪\documents\visual studio 2012\Projects\s2230moshou\Frmze\obj\Debug\Frmze.csprojResolveAssemblyReference.cache
